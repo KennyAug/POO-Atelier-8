@@ -45,6 +45,15 @@ class DataVoiture:
         con.close()
 
         return voitures
+    def modifier_voiture(self, voiture):
+        con = self.connecter_db()
+        crs = con.cursor()
+        crs.execute("UPDATE voiture SET marque = %s, modele = %s, annee = %s, prix = %s WHERE id = %s",
+                    (voiture.marque, voiture.modele, voiture.annee,voiture.prix, voiture.id)
+                    )
+        con.commit()
+        crs.close()
+        con.close()
 
 
 
