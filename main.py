@@ -4,9 +4,9 @@ from services.services_voiture import ServicesVoiture
 
 service = ServicesVoiture()
 
-
-sv1 = Voiture("", "", "","", 202)
-service.retire_voiture(sv1)
+liste_voitures = service.appeller_voiture()
+for v in liste_voitures:
+    print(v)
 
 
 
