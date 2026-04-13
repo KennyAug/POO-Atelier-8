@@ -21,4 +21,14 @@ class DataVoiture:
         )
         con.commit()
         crs.close()
+        con.close()
+    def supprimer_voiture(self, voiture):
+        con = self.connecter_db()
+        crs = con.cursor()
+        crs.execute("DELETE FROM voiture WHERE id = %s",
+                    (voiture.id,)
+
+        )
+        con.commit()
         crs.close()
+        con.close()
