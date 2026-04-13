@@ -7,3 +7,35 @@ class ServicesVoiture:
     def add_voiture(self, voiture):
         if voiture.id and voiture.marque and voiture.modele and voiture.annee and voiture.prix:
             self.data.ajouter_voiture(voiture)
+    def retire_voiture(self, voiture):
+        if voiture.id:
+            self.data.supprimer_voiture(voiture)
+    def appeller_voiture(self):
+        self.data.recuperer_voiture()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
