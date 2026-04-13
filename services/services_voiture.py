@@ -11,9 +11,10 @@ class ServicesVoiture:
         if voiture.id:
             self.data.supprimer_voiture(voiture)
     def appeller_voiture(self):
-        self.data.recuperer_voiture()
-
-
+        return self.data.recuperer_voiture()
+    def changer_voiture(self, voiture):
+        if voiture.id and voiture.marque and voiture.modele and voiture.annee and voiture.prix:
+            self.data.modifier_voiture(voiture)
 
 
 
