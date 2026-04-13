@@ -32,3 +32,13 @@ class DataVoiture:
         con.commit()
         crs.close()
         con.close()
+    def recuperer_voiture(self, voiture):
+        con = self.connecter_db()
+        crs = con.cursor()
+        crs.execute("Select * from voiture ")
+        v = crs.fetchall()
+        voitures = []
+        for s in v:
+            voitures.append(s)
+        crs.close()
+        con.close()
