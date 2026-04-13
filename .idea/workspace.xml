@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66d98348-329b-4318-ae18-e8bd2bdf2a9d" name="Changes" comment="Update et correction">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libffi-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KennyAug&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KennyAug/POO-Atelier-8.git&quot;,
+    &quot;accountId&quot;: &quot;45328ed8-c613-41b7-916a-b87eff4290e7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3CGJ7VEElWRkveBZ9FRIC8twFJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.crud_db.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.services_voiture.executor": "Run",
+    "Python.voiture.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d98348-329b-4318-ae18-e8bd2bdf2a9d" name="Changes" comment="" />
+      <created>1776005805627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776005805627</updated>
+    </task>
+    <task id="LOCAL-00001" summary="creation du fichier README.md">
+      <option name="closed" value="true" />
+      <created>1776005966494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776005966494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="entrer des données dans le fichier README.md">
+      <option name="closed" value="true" />
+      <created>1776006506684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776006506684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creation du fichier config.json">
+      <option name="closed" value="true" />
+      <created>1776025612688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776025612688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creation du fichier main.py">
+      <option name="closed" value="true" />
+      <created>1776025632829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776025632829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creation de voiture.py">
+      <option name="closed" value="true" />
+      <created>1776025849224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776025849224</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creation de crud_db.py">
+      <option name="closed" value="true" />
+      <created>1776030772702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776030772702</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creation de la fonction &quot;connecter_db&quot; dans crud_db.py">
+      <option name="closed" value="true" />
+      <created>1776030878190</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776030878190</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creation de la class voiture et ses attribut">
+      <option name="closed" value="true" />
+      <created>1776035066391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776035066391</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <option name="closed" value="true" />
+      <created>1776035116800</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776035116800</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test pour voir si ça marche sans erreur">
+      <option name="closed" value="true" />
+      <created>1776035586704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776035586704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="select * from voiture; dans MySQL renvoie l'insertion que j'ai fait dans main.py est réussi.">
+      <option name="closed" value="true" />
+      <created>1776036027590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776036027590</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update dans crud_db.py --&gt; Typo crs.close a la fin au lieu de con.close">
+      <option name="closed" value="true" />
+      <created>1776040092012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776040092012</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Verification de la suppression d'un objet réussi dans MySQL">
+      <option name="closed" value="true" />
+      <created>1776040356325</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776040356325</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Implementation de la fonction &quot;recuperer_voiture&quot;, &#10;P.S : j'ai utiliser l'ia pour savoir comment faire pour la reccuperation.">
+      <option name="closed" value="true" />
+      <created>1776042380973</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776042380973</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Correction de quelque erreur dans crud_db.py">
+      <option name="closed" value="true" />
+      <created>1776046710934</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776046710934</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Correction de quelque erreur dans main.py">
+      <option name="closed" value="true" />
+      <created>1776046722100</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1776046722100</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Correction de quelque erreur dans services_voiture.py">
+      <option name="closed" value="true" />
+      <created>1776046745590</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1776046745590</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update et correction">
+      <option name="closed" value="true" />
+      <created>1776047813024</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1776047813024</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update et correction">
+      <option name="closed" value="true" />
+      <created>1776047818138</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1776047818138</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update et correction">
+      <option name="closed" value="true" />
+      <created>1776047823314</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1776047823314</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update et correction">
+      <option name="closed" value="true" />
+      <created>1776047831582</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1776047831582</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation du fichier README.md" />
+    <MESSAGE value="entrer des données dans le fichier README.md" />
+    <MESSAGE value="Creation du fichier config.json" />
+    <MESSAGE value="Creation du fichier main.py" />
+    <MESSAGE value="Creation de voiture.py" />
+    <MESSAGE value="Creation de crud_db.py" />
+    <MESSAGE value="Creation de la fonction &quot;connecter_db&quot; dans crud_db.py" />
+    <MESSAGE value="Creation de la class voiture et ses attribut" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Test pour voir si ça marche sans erreur" />
+    <MESSAGE value="select * from voiture; dans MySQL renvoie l'insertion que j'ai fait dans main.py est réussi." />
+    <MESSAGE value="Update dans crud_db.py --&gt; Typo crs.close a la fin au lieu de con.close" />
+    <MESSAGE value="Verification de la suppression d'un objet réussi dans MySQL" />
+    <MESSAGE value="Implementation de la fonction &quot;recuperer_voiture&quot;, &#10;P.S : j'ai utiliser l'ia pour savoir comment faire pour la reccuperation." />
+    <MESSAGE value="Correction de quelque erreur dans crud_db.py" />
+    <MESSAGE value="Correction de quelque erreur dans main.py" />
+    <MESSAGE value="Correction de quelque erreur dans services_voiture.py" />
+    <MESSAGE value="Update et correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update et correction" />
+  </component>
+</project>
